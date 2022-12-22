@@ -4,139 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8fccb0d0e61de9f8",
+        "id": "1a8f1e966fec96a8",
         "type": "tabs",
         "children": [
           {
-            "id": "c5be49fc529fa7c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "98372383450d92d6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "044f5f27a30b87b7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f453fa8679da2f6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0bf9fd1ae7108d0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "14a25099ecf837cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fda74e2022f8a0c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4c71c62a2623a2f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a07ab41024f8c07a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2dfdc6457bfcec7b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ffdc49ce5133d59",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "81f652ac8d698984",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dcac37b0eb72c379",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8705539ecea32c75",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "28d8cdc7080d00a7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6056e8254a50a088",
+            "id": "d0c325675414584b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +47,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -246,53 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "floating": {
-    "id": "cddd52f80f58ebd1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e13cb817d7d10630",
-        "type": "window",
-        "children": [
-          {
-            "id": "e3a3683633ffe912",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d46530b9f35106ff",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1146,
-        "y": 483,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6056e8254a50a088",
+  "active": "43f4bb957fb672b4",
   "lastOpenFiles": [
+    "cd ...md",
+    "2022-12-20.md",
+    "README.md",
     "무제파일.md",
     "Study/day1.md",
     "Network/네트워크.md",
     "Jargon/cd.md",
     "Jargon/ci.md",
     "K8s/쿠버네티스.md",
-    "컨테이너.md",
-    "README.md",
-    "Jargon/SaaS.md",
-    "Jargon/IaaS.md"
+    "컨테이너.md"
   ]
 }
